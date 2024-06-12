@@ -83,8 +83,11 @@ header {
 }
 
 /* ----- Phase 1 - Moderate Screen ----- */
-
-/* Your code here */
+@media screen and(min-width: 850px){
+.example{
+    font-size: 20px;
+}
+}
 
 /* ----- Phase 1 - Wide Screen ----- */
 
@@ -95,3 +98,4 @@ header {
 /* Phase 2 */
 
 /* Your code here */
+abcc
